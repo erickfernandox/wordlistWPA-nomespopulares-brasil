@@ -19,7 +19,7 @@ Nomes=['souza','silva','sousa','borges','maria','lucas','enzo','cristo','moreira
 'caio','caua','rebeca','bryan','vitoria','miguel','isis','vicente','lavinia','francisco',
 'antonio','bianca','benicio','fernanda','catarina','alicia','thiago','alice','thomas','emanuel','enrico','aguinaldo']
 
-arq = open('nomespopularesTudo5.txt','w')
+arq = open('nomespopulares.txt','w')
 
 for Nome in Nomes:
     
