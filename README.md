@@ -4,6 +4,6 @@ Este algoritmo em Python cria uma lista de palavras composta por combinações d
 
 Comando Aircrack-NG para decodificar a senha de uma rede wifi utilizando a wordlist:
 
-> aircrack-ng teste.cap -w wordlistWPA-nomespopulares-brasil.txt
+> aircrack-ng teste.cap -w nomespopulares.txt
 
 
